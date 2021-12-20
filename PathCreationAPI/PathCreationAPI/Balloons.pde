@@ -63,10 +63,10 @@ void createWaves() {
   createBalloons(1,10,500,50,1,150,0);
   createBalloons(1,1,100,50,0.4,600,2);
   
-  createBalloons(1,3,100,50,0.4,600,1);
-  createBalloons(1,10,500,50,1,150,0);
-  createBalloons(1,1,100,50,0.3,1000,2);
-  createBalloons(1,1,100,50,0.2,2000,3);
+  createBalloons(2,3,100,50,0.4,600,1);
+  createBalloons(2,10,500,50,1,150,0);
+  createBalloons(2,1,100,50,0.3,1000,2);
+  createBalloons(2,1,100,50,0.2,2000,3);
   
   
   /*
