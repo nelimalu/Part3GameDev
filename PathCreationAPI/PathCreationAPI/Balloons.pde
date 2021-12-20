@@ -52,7 +52,7 @@ float rangeMap(float value, float inMin, float inMax, float outMin, float outMax
 }
 
 void createWaves() {
-  createLevels(2);
+  createLevels(3);
   
   //(level balloons are for, number of balloons, first balloon delay, delay between the sequence of balloons, speed, hp, moabType)
   createBalloons(0,10,0,20,5,30,0);
