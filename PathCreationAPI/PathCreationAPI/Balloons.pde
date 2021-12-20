@@ -57,7 +57,7 @@ void createWaves() {
   //(level balloons are for, number of balloons, first balloon delay, delay between the sequence of balloons, speed, hp, moabType)
   createBalloons(0,10,0,20,5,30,0);
   createBalloons(0,10,500,50,1,150,0);
-  createBalloons(1,1,100,50,0.4,600,1);
+  createBalloons(0,1,100,50,0.4,600,1);
   
   createBalloons(1,3,100,50,0.4,600,1);
   createBalloons(1,10,500,50,1,150,0);
